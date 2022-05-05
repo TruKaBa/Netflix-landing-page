@@ -1,2 +1,2 @@
 # Netlfix-landing-page
-Netflx landing page
+Netflix landing page
